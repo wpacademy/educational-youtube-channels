@@ -1,6 +1,8 @@
 # Top YouTube Channels to Learn Anything
 > Curated list of top educational YouTube channels where you can learn anything for free.
 
+[Contribution guidelines for this project](CONTRIBUTING.md)
+
 ## Programing & Coding 
 | Channel Name  | Subscriber Count | Language | Link |
 | ------------- | ---------------- | -------- | ---- |
@@ -51,4 +53,3 @@
 | Punit Chawla  | 103K  | English | [Visit Channel](https://www.youtube.com/c/PunitChawla) |
 | Design Academy  | 90K | Urdu | [Visit Channel](https://www.youtube.com/c/DesignAcademyPK) |
 | Hello, I'm Alexa  | 23K  | English | [Visit Channel](https://www.youtube.com/c/HelloImAlexa) |
-| freeCodeCamp  | 5.7M  | English | Visit Channel |
