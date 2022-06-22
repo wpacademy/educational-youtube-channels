@@ -1,7 +1,7 @@
 # Top YouTube Channels to Learn Anything
 > Curated list of top educational YouTube channels where you can learn anything for free.
 
-[Contribution guidelines for this project](CONTRIBUTING.md)
+** Please Read ** [Contribution guidelines](CONTRIBUTING.md) **before submitting new resources **
 
 ## Programing & Coding 
 | Channel Name  | Subscriber Count | Language | Link |
