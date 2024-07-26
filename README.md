@@ -53,3 +53,8 @@
 | Punit Chawla  | 103K  | English | [Visit Channel](https://www.youtube.com/c/PunitChawla) |
 | Design Academy  | 90K | Urdu | [Visit Channel](https://www.youtube.com/c/DesignAcademyPK) |
 | Hello, I'm Alexa  | 23K  | English | [Visit Channel](https://www.youtube.com/c/HelloImAlexa) |
+
+## Machine Learning
+| Channel Name  | Subscriber Count | Language | Link |
+| ------------- | ---------------- | -------- | ---- |
+| Agha Ali Raza  | 603  | Urdu | [Visit Channel](https://www.youtube.com/user/agha999) |
