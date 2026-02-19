@@ -7,9 +7,16 @@
 - [Programming & Coding](#programming--coding)
 - [AI & Automation](#ai--automation)
 - [Machine Learning & Data Science](#machine-learning--data-science)
+- [Game Development](#game-development)
+- [Mobile App Development](#mobile-app-development)
+- [UI/UX Design](#uiux-design)
 - [Graphic & Design](#graphic--design)
 - [Cybersecurity](#cybersecurity)
 - [DevOps & Cloud Computing](#devops--cloud-computing)
+- [Blockchain & Web3](#blockchain--web3)
+- [Digital Marketing & SEO](#digital-marketing--seo)
+- [Electronics & IoT](#electronics--iot)
+- [Science & Mathematics](#science--mathematics)
 
 ## Programming & Coding
 | Channel Name  | Subscriber Count | Language | Link |
@@ -85,6 +92,45 @@
 | codebasics  | 200K  | English | [Visit Channel](https://www.youtube.com/c/codebasics) |
 | Agha Ali Raza  | 603  | Urdu | [Visit Channel](https://www.youtube.com/user/agha999) |
 
+## Game Development
+| Channel Name  | Subscriber Count | Language | Link |
+| ------------- | ---------------- | -------- | ---- |
+| Extra Credits  | 2M  | English | [Visit Channel](https://www.youtube.com/c/ExtraCredits) |
+| Brackeys  | 1.9M  | English | [Visit Channel](https://www.youtube.com/c/Brackeys) |
+| Game Maker's Toolkit  | 1.5M  | English | [Visit Channel](https://www.youtube.com/c/MarkBrownGMT) |
+| Sebastian Lague  | 1.3M  | English | [Visit Channel](https://www.youtube.com/c/SebastianLague) |
+| GDC  | 548K  | English | [Visit Channel](https://www.youtube.com/c/Gdconf) |
+| Code Monkey  | 450K  | English | [Visit Channel](https://www.youtube.com/c/CodeMonkeyUnity) |
+| GDQuest  | 320K  | English | [Visit Channel](https://www.youtube.com/c/Gdquest) |
+| Heartbeast  | 280K  | English | [Visit Channel](https://www.youtube.com/c/uikiofficial) |
+| GameDev.tv  | 190K  | English | [Visit Channel](https://www.youtube.com/c/GameDevTVChannel) |
+| Awesome Tuts  | 129K  | English | [Visit Channel](https://www.youtube.com/c/AwesomeTuts) |
+| KidsCanCode  | 125K  | English | [Visit Channel](https://www.youtube.com/c/KidsCanCodeOrg) |
+| DevDuck  | 100K  | English | [Visit Channel](https://www.youtube.com/@devduck) |
+
+## Mobile App Development
+| Channel Name  | Subscriber Count | Language | Link |
+| ------------- | ---------------- | -------- | ---- |
+| Android Developers  | 1.4M  | English | [Visit Channel](https://www.youtube.com/c/AndroidDevelopers) |
+| Flutter  | 980K  | English | [Visit Channel](https://www.youtube.com/c/flutterdev) |
+| CodeWithChris  | 600K  | English | [Visit Channel](https://www.youtube.com/c/CodeWithChris) |
+| Coding in Flow  | 280K  | English | [Visit Channel](https://www.youtube.com/c/CodinginFlow) |
+| CodingWithMitch  | 190K  | English | [Visit Channel](https://www.youtube.com/c/CodingWithMitch) |
+| London App Brewery  | 165K  | English | [Visit Channel](https://www.youtube.com/c/Londonappbrewery) |
+| Code with Andrea  | 140K  | English | [Visit Channel](https://www.youtube.com/c/CodeWithAndrea) |
+| Kilo Loco  | 95K  | English | [Visit Channel](https://www.youtube.com/c/KiloLoco) |
+| Santos Enoque  | 85K  | English | [Visit Channel](https://www.youtube.com/c/SantosEnoque) |
+
+## UI/UX Design
+| Channel Name  | Subscriber Count | Language | Link |
+| ------------- | ---------------- | -------- | ---- |
+| Flux Academy  | 1M  | English | [Visit Channel](https://www.youtube.com/c/FluxWithRanSegall) |
+| Wes McDowell  | 426K  | English | [Visit Channel](https://www.youtube.com/c/WesMcDowell) |
+| Figma  | 400K  | English | [Visit Channel](https://www.youtube.com/c/Figmadesign) |
+| Mizko  | 53K  | English | [Visit Channel](https://www.youtube.com/c/Mizko) |
+| Sarah Doody  | 34K  | English | [Visit Channel](https://www.youtube.com/c/SarahDoody) |
+| Caler Edwards  | 50K  | English | [Visit Channel](https://www.youtube.com/@CalerEdwards) |
+
 ## Graphic & Design
 | Channel Name  | Subscriber Count | Language | Link |
 | ------------- | ---------------- | -------- | ---- |
@@ -144,3 +190,63 @@
 | That DevOps Guy  | 100K  | English | [Visit Channel](https://www.youtube.com/@MarcelDempers) |
 | DevOps Directive  | 96K  | English | [Visit Channel](https://www.youtube.com/c/DevOpsDirective) |
 | Continuous Delivery  | 200K  | English | [Visit Channel](https://www.youtube.com/@ContinuousDelivery) |
+
+## Blockchain & Web3
+| Channel Name  | Subscriber Count | Language | Link |
+| ------------- | ---------------- | -------- | ---- |
+| Coin Bureau  | 2.5M  | English | [Visit Channel](https://www.youtube.com/c/CoinBureau) |
+| Brian Jung  | 1.88M  | English | [Visit Channel](https://www.youtube.com/c/BrianJung) |
+| Altcoin Daily  | 1.49M  | English | [Visit Channel](https://www.youtube.com/c/AltcoinDaily) |
+| Alex Becker  | 1.44M  | English | [Visit Channel](https://www.youtube.com/c/AlexBeckerChannel) |
+| CryptosRUs  | 812K  | English | [Visit Channel](https://www.youtube.com/c/CryptosRUs) |
+| The Moon  | 650K  | English | [Visit Channel](https://www.youtube.com/c/TheMoonCarl) |
+| Lark Davis  | 640K  | English | [Visit Channel](https://www.youtube.com/c/TheCryptoLark) |
+| Aantonop  | 336K  | English | [Visit Channel](https://www.youtube.com/c/aantonop) |
+| Coinsider  | 332K  | English | [Visit Channel](https://www.youtube.com/@Coinsider) |
+| Bankless  | 276K  | English | [Visit Channel](https://www.youtube.com/c/Bankless) |
+
+## Digital Marketing & SEO
+| Channel Name  | Subscriber Count | Language | Link |
+| ------------- | ---------------- | -------- | ---- |
+| GaryVee  | 4.7M  | English | [Visit Channel](https://www.youtube.com/c/garyvee) |
+| Neil Patel  | 620K  | English | [Visit Channel](https://www.youtube.com/c/NeilPatel) |
+| Ahrefs  | 450K  | English | [Visit Channel](https://www.youtube.com/c/AhrefsCom) |
+| Google Search Central  | 250K  | English | [Visit Channel](https://www.youtube.com/c/GoogleSearchCentral) |
+| Semrush  | 200K  | English | [Visit Channel](https://www.youtube.com/c/Semrush) |
+| Brian Dean  | 200K  | English | [Visit Channel](https://www.youtube.com/c/BrianDean) |
+| Nathan Gotch  | 150K  | English | [Visit Channel](https://www.youtube.com/c/GotchSEO) |
+| Matt Diggity  | 100K  | English | [Visit Channel](https://www.youtube.com/c/MattDiggity) |
+| Moz  | 98K  | English | [Visit Channel](https://www.youtube.com/c/Moz) |
+| Rank Math SEO  | 80K  | English | [Visit Channel](https://www.youtube.com/c/RankMathSEO) |
+
+## Electronics & IoT
+| Channel Name  | Subscriber Count | Language | Link |
+| ------------- | ---------------- | -------- | ---- |
+| ElectroBOOM  | 8.6M  | English | [Visit Channel](https://www.youtube.com/c/Electroboom) |
+| GreatScott!  | 1.4M  | English | [Visit Channel](https://www.youtube.com/c/greatscottlab) |
+| ExplainingComputers  | 985K  | English | [Visit Channel](https://www.youtube.com/c/ExplainingComputers) |
+| element14 presents  | 765K  | English | [Visit Channel](https://www.youtube.com/c/element14presents) |
+| DroneBot Workshop  | 657K  | English | [Visit Channel](https://www.youtube.com/c/Dronebotworkshop1) |
+| Paul McWhorter  | 423K  | English | [Visit Channel](https://www.youtube.com/c/PaulMcWhorter) |
+| Jeff Geerling  | 400K  | English | [Visit Channel](https://www.youtube.com/c/JeffGeerling) |
+| SparkFun Electronics  | 244K  | English | [Visit Channel](https://www.youtube.com/c/sparkfun) |
+| Raspberry Pi  | 172K  | English | [Visit Channel](https://www.youtube.com/c/RaspberryPiFoundation) |
+| Mert Arduino and Tech  | 171K  | English | [Visit Channel](https://www.youtube.com/@MertArduino) |
+| SunFounder  | 109K  | English | [Visit Channel](https://www.youtube.com/c/SunFounder) |
+
+## Science & Mathematics
+| Channel Name  | Subscriber Count | Language | Link |
+| ------------- | ---------------- | -------- | ---- |
+| Kurzgesagt  | 25M  | English | [Visit Channel](https://www.youtube.com/c/inanutshell) |
+| TED-Ed  | 20.4M  | English | [Visit Channel](https://www.youtube.com/c/TEDEd) |
+| Crash Course  | 15.9M  | English | [Visit Channel](https://www.youtube.com/c/crashcourse) |
+| Veritasium  | 14M  | English | [Visit Channel](https://www.youtube.com/c/veritasium) |
+| AsapSCIENCE  | 10.7M  | English | [Visit Channel](https://www.youtube.com/c/AsapSCIENCE) |
+| The Organic Chemistry Tutor  | 10.3M  | English | [Visit Channel](https://www.youtube.com/c/TheOrganicChemistryTutor) |
+| 3Blue1Brown  | 7.4M  | English | [Visit Channel](https://www.youtube.com/c/3blue1brown) |
+| MinutePhysics  | 5.7M  | English | [Visit Channel](https://www.youtube.com/c/minutephysics) |
+| Numberphile  | 4.56M  | English | [Visit Channel](https://www.youtube.com/c/numberphile) |
+| Brian McLogan  | 1.6M  | English | [Visit Channel](https://www.youtube.com/c/brianmclogan) |
+| Bozeman Science  | 1.4M  | English | [Visit Channel](https://www.youtube.com/c/baborscience) |
+| Physics Videos by Eugene Khutoryansky  | 1M  | English | [Visit Channel](https://www.youtube.com/c/EugeneKhutoryansky) |
+| Mathologer  | 962K  | English | [Visit Channel](https://www.youtube.com/c/Mathologer) |
