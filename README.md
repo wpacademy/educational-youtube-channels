@@ -263,6 +263,7 @@
 | TED-Ed  | 20.4M  | English | [Visit Channel](https://www.youtube.com/c/TEDEd) |
 | Crash Course  | 15.9M  | English | [Visit Channel](https://www.youtube.com/c/crashcourse) |
 | Veritasium  | 14M  | English | [Visit Channel](https://www.youtube.com/c/veritasium) |
+| SmarterEveryDay  | 11.8M  | English | [Visit Channel](https://www.youtube.com/c/smartereveryday) |
 | AsapSCIENCE  | 10.7M  | English | [Visit Channel](https://www.youtube.com/c/AsapSCIENCE) |
 | The Organic Chemistry Tutor  | 10.3M  | English | [Visit Channel](https://www.youtube.com/c/TheOrganicChemistryTutor) |
 | 3Blue1Brown  | 7.4M  | English | [Visit Channel](https://www.youtube.com/c/3blue1brown) |
