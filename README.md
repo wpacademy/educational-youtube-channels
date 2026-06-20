@@ -268,6 +268,7 @@
 | 3Blue1Brown  | 7.4M  | English | [Visit Channel](https://www.youtube.com/c/3blue1brown) |
 | MinutePhysics  | 5.7M  | English | [Visit Channel](https://www.youtube.com/c/minutephysics) |
 | Numberphile  | 4.56M  | English | [Visit Channel](https://www.youtube.com/c/numberphile) |
+| Physics Girl  | 3.5M  | English | [Visit Channel](https://www.youtube.com/@physicsgirl) |
 | Brian McLogan  | 1.6M  | English | [Visit Channel](https://www.youtube.com/c/brianmclogan) |
 | Bozeman Science  | 1.4M  | English | [Visit Channel](https://www.youtube.com/c/baborscience) |
 | Physics Videos by Eugene Khutoryansky  | 1M  | English | [Visit Channel](https://www.youtube.com/c/EugeneKhutoryansky) |
