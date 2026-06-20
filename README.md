@@ -245,6 +245,7 @@
 | Channel Name  | Subscriber Count | Language | Link |
 | ------------- | ---------------- | -------- | ---- |
 | ElectroBOOM  | 8.6M  | English | [Visit Channel](https://www.youtube.com/c/Electroboom) |
+| Technology Connections  | 3.1M  | English | [Visit Channel](https://www.youtube.com/@TechnologyConnections) |
 | GreatScott!  | 1.4M  | English | [Visit Channel](https://www.youtube.com/c/greatscottlab) |
 | ExplainingComputers  | 985K  | English | [Visit Channel](https://www.youtube.com/c/ExplainingComputers) |
 | element14 presents  | 765K  | English | [Visit Channel](https://www.youtube.com/c/element14presents) |
