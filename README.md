@@ -66,6 +66,7 @@
 | LearnCode.academy  | 750K  | English | [Visit Channel](https://www.youtube.com/c/learncodeacademy) |
 | Hitesh Choudhary  | 700K  | Hindi | [Visit Channel](https://www.youtube.com/c/HiteshChoudharydotcom) |
 | Java Brains  | 565K  | English | [Visit Channel](https://www.youtube.com/c/JavaBrainsChannel) |
+| The Pragmatic Engineer  | 500K  | English | [Visit Channel](https://www.youtube.com/@ThePragmaticEngineer) |
 | Coding with John  | 485K  | English | [Visit Channel](https://www.youtube.com/c/CodingwithJohn) |
 | The Cherno  | 485K  | English | [Visit Channel](https://www.youtube.com/c/TheChernoProject) |
 | LevelUpTuts  | 340K  | English | [Visit Channel](https://www.youtube.com/c/LevelUpTuts) |
