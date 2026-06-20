@@ -6,7 +6,7 @@
 
 [![Awesome](https://img.shields.io/badge/Awesome-List-blue?style=for-the-badge&logo=awesomelists&logoColor=white)](https://github.com/wpacademy/educational-youtube-channels)
 [![Channels](https://img.shields.io/badge/Channels-181-red?style=for-the-badge&logo=youtube&logoColor=white)](#table-of-contents)
-[![Categories](https://img.shields.io/badge/Categories-13-green?style=for-the-badge&logo=bookstack&logoColor=white)](#table-of-contents)
+[![Categories](https://img.shields.io/badge/Categories-14-green?style=for-the-badge&logo=bookstack&logoColor=white)](#table-of-contents)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white)](CONTRIBUTING.md)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 
@@ -15,7 +15,7 @@
 | Stat | Count |
 |:---:|:---:|
 | Total Channels | 181 |
-| Categories | 13 |
+| Categories | 14 |
 | Languages | 5 (English, Hindi, Urdu, English/Hindi, Multiple) |
 | Last Updated | February 2026 |
 
@@ -39,6 +39,7 @@
 - [Digital Marketing & SEO](#digital-marketing--seo)
 - [Electronics & IoT](#electronics--iot)
 - [Science & Mathematics](#science--mathematics)
+- [Chemistry](#chemistry)
 
 ## Programming & Coding
 | Channel Name  | Subscriber Count | Language | Link |
@@ -246,6 +247,7 @@
 | ------------- | ---------------- | -------- | ---- |
 | ElectroBOOM  | 8.6M  | English | [Visit Channel](https://www.youtube.com/c/Electroboom) |
 | Techmoan  | 1.45M  | English | [Visit Channel](https://www.youtube.com/@Techmoan) |
+| Technology Connections  | 3.1M  | English | [Visit Channel](https://www.youtube.com/@TechnologyConnections) |
 | GreatScott!  | 1.4M  | English | [Visit Channel](https://www.youtube.com/c/greatscottlab) |
 | ExplainingComputers  | 985K  | English | [Visit Channel](https://www.youtube.com/c/ExplainingComputers) |
 | element14 presents  | 765K  | English | [Visit Channel](https://www.youtube.com/c/element14presents) |
@@ -264,12 +266,20 @@
 | TED-Ed  | 20.4M  | English | [Visit Channel](https://www.youtube.com/c/TEDEd) |
 | Crash Course  | 15.9M  | English | [Visit Channel](https://www.youtube.com/c/crashcourse) |
 | Veritasium  | 14M  | English | [Visit Channel](https://www.youtube.com/c/veritasium) |
+| SmarterEveryDay  | 11.8M  | English | [Visit Channel](https://www.youtube.com/c/smartereveryday) |
 | AsapSCIENCE  | 10.7M  | English | [Visit Channel](https://www.youtube.com/c/AsapSCIENCE) |
 | The Organic Chemistry Tutor  | 10.3M  | English | [Visit Channel](https://www.youtube.com/c/TheOrganicChemistryTutor) |
 | 3Blue1Brown  | 7.4M  | English | [Visit Channel](https://www.youtube.com/c/3blue1brown) |
 | MinutePhysics  | 5.7M  | English | [Visit Channel](https://www.youtube.com/c/minutephysics) |
 | Numberphile  | 4.56M  | English | [Visit Channel](https://www.youtube.com/c/numberphile) |
+| Physics Girl  | 3.5M  | English | [Visit Channel](https://www.youtube.com/@physicsgirl) |
 | Brian McLogan  | 1.6M  | English | [Visit Channel](https://www.youtube.com/c/brianmclogan) |
 | Bozeman Science  | 1.4M  | English | [Visit Channel](https://www.youtube.com/c/baborscience) |
+| Hannah Fry  | 1.24M  | English | [Visit Channel](https://www.youtube.com/@fryrsquared) |
 | Physics Videos by Eugene Khutoryansky  | 1M  | English | [Visit Channel](https://www.youtube.com/c/EugeneKhutoryansky) |
 | Mathologer  | 962K  | English | [Visit Channel](https://www.youtube.com/c/Mathologer) |
+
+## Chemistry
+| Channel Name  | Subscriber Count | Language | Link |
+| ------------- | ---------------- | -------- | ---- |
+| NileRed  | 10.7M  | English | [Visit Channel](https://www.youtube.com/@NileRed) |
