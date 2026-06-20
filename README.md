@@ -274,6 +274,7 @@
 | Physics Girl  | 3.5M  | English | [Visit Channel](https://www.youtube.com/@physicsgirl) |
 | Brian McLogan  | 1.6M  | English | [Visit Channel](https://www.youtube.com/c/brianmclogan) |
 | Bozeman Science  | 1.4M  | English | [Visit Channel](https://www.youtube.com/c/baborscience) |
+| Hannah Fry  | 1.24M  | English | [Visit Channel](https://www.youtube.com/@fryrsquared) |
 | Physics Videos by Eugene Khutoryansky  | 1M  | English | [Visit Channel](https://www.youtube.com/c/EugeneKhutoryansky) |
 | Mathologer  | 962K  | English | [Visit Channel](https://www.youtube.com/c/Mathologer) |
 
