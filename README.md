@@ -14,7 +14,7 @@
 
 | Stat | Count |
 |:---:|:---:|
-| Total Channels | 181 |
+| Total Channels | 188 |
 | Categories | 14 |
 | Languages | 5 (English, Hindi, Urdu, English/Hindi, Multiple) |
 | Last Updated | February 2026 |
