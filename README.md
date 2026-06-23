@@ -196,6 +196,7 @@
 | Hak5  | 800K  | English | [Visit Channel](https://www.youtube.com/c/Hak5) |
 | Null Byte  | 600K  | English | [Visit Channel](https://www.youtube.com/c/NullByteWHT) |
 | IppSec  | 400K  | English | [Visit Channel](https://www.youtube.com/c/ippsec) |
+| LaurieWired  | 429K  | English | [Visit Channel](https://www.youtube.com/@lauriewired) |
 | zSecurity  | 350K  | English | [Visit Channel](https://www.youtube.com/c/zaborSecurity) |
 | Grant Collins  | 230K  | English | [Visit Channel](https://www.youtube.com/@GrantCollins) |
 | Cyberspatial  | 181K  | English | [Visit Channel](https://www.youtube.com/@Cyberspatial) |
