@@ -5,7 +5,7 @@
 ### Curated list of top educational YouTube channels where you can learn anything for free.
 
 [![Awesome](https://img.shields.io/badge/Awesome-List-blue?style=for-the-badge&logo=awesomelists&logoColor=white)](https://github.com/wpacademy/educational-youtube-channels)
-[![Channels](https://img.shields.io/badge/Channels-188-red?style=for-the-badge&logo=youtube&logoColor=white)](#table-of-contents)
+[![Channels](https://img.shields.io/badge/Channels-190-red?style=for-the-badge&logo=youtube&logoColor=white)](#table-of-contents)
 [![Categories](https://img.shields.io/badge/Categories-14-green?style=for-the-badge&logo=bookstack&logoColor=white)](#table-of-contents)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white)](CONTRIBUTING.md)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
@@ -14,7 +14,7 @@
 
 | Stat | Count |
 |:---:|:---:|
-| Total Channels | 188 |
+| Total Channels | 190 |
 | Categories | 14 |
 | Languages | 5 (English, Hindi, Urdu, English/Hindi, Multiple) |
 | Last Updated | February 2026 |
