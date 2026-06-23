@@ -77,6 +77,7 @@
 | Learn Code With Durgesh  | 120K  | Hindi | [Visit Channel](https://www.youtube.com/c/LearnCodeWithDurgesh) |
 | Automate the Boring Stuff  | 122K  | English | [Visit Channel](https://www.youtube.com/c/AutomatetheBoringStuff) |
 | Chris Sean  | 110K  | English | [Visit Channel](https://www.youtube.com/c/ChrisSean) |
+| Ryan Peterman  | 25K  | English | [Visit Channel](https://www.youtube.com/@RyanLPeterman) |
 | Code with Ahsan  | 8K  | Urdu | [Visit Channel](https://www.youtube.com/c/CodewithAhsan) |
 
 ## AI & Automation
